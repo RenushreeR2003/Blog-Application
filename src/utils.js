@@ -1,5 +1,5 @@
 import axios from "axios";
-export const API_URL = "https://blog-application-backend-67px.onrender.com"
+export const API_URL = "https://blog-application-backend-67px.onrender.com/api"
 
 export const getErrorMessage =(error)=>{
 
